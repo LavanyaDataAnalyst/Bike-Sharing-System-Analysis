@@ -144,17 +144,17 @@ Based on the analysis, the following improvements can be suggested:
 
 - Users can interact with the dashboard using the following features:
 
-**Slicers** – Filter data by Status, Banking, Bonus, and City.
+>**Slicers** – Filter data by Status, Banking, Bonus, and City.
 
-**Timeline slicer** – Analyze trends over time.
+>**Timeline slicer** – Analyze trends over time.
 
-**Charts and visuals** – Compare station capacity, availability, and city distribution.
+>**Charts and visuals** – Compare station capacity, availability, and city distribution.
 
-**Map visualization** – View geographic distribution of bike stations.
+>**Map visualization** – View geographic distribution of bike stations.
 
-**Matrix table** – View detailed city-level metrics.
+>**Matrix table** – View detailed city-level metrics.
 
-**Cards/KPIs** – Quickly see totals for bikes, stands, and active stations.
+>**Cards/KPIs** – Quickly see totals for bikes, stands, and active stations.
 
 - This interactive dashboard helps stakeholders analyze bike availability, monitor station performance, and support decision-making for bike-sharing operations.
 
