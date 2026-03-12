@@ -27,19 +27,19 @@
 
 **Key fields include:**
 
->Station ID 
->Station Number
->Station Name
->Address
->Banking (Yes/No)
->Bonus (Yes/No)
->Status (Open/Closed)
->City
->Latitude & Longitude
->Bike Stands (Total capacity)
->Available Bike Stands
->Available Bikes
->Last Updated Date & Time
+>Station ID,
+>Station Number,
+>Station Name,
+>Address,
+>Banking (Yes/No),
+>Bonus (Yes/No),
+>Status (Open/Closed),
+>City,
+>Latitude & Longitude,
+>Bike Stands (Total capacity),
+>Available Bike Stands,
+>Available Bikes,
+>Last Updated Date & Time and 
 >Time Zone
 
 * The network includes thousands of bike stands distributed across multiple cities.
@@ -48,22 +48,22 @@
 * The following tools were used in the project:
 
 **Excel**
->Data cleaning
->Sorting and filtering
->Pivot tables
->Basic analysis
+>Data cleaning |
+>Sorting and filtering |
+>Pivot tables |
+>Basic analysis 
 
 **Power Query**
->Data transformation
->Data formatting and preparation
+>Data transformation |
+>Data formatting and preparation |
 
 **Power BI**
->Data modeling
->Dashboard creation
->Visualization
+>Data modeling |
+>Dashboard creation |
+>Visualization |
 
 **DAX (Data Analysis Expressions)**
->Creating measures
+>Creating measures |
 >Calculations and aggregated metrics
 
 ## 🧹Data Cleaning & Preparation
