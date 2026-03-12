@@ -28,19 +28,19 @@
 **Key fields include:**
 
 >Station ID 
-Station Number
-Station Name
-Address
-Banking (Yes/No)
-Bonus (Yes/No)
-Status (Open/Closed)
-City
-Latitude & Longitude
-Bike Stands (Total capacity)
-Available Bike Stands
-Available Bikes
-Last Updated Date & Time
-Time Zone
+>Station Number
+>Station Name
+>Address
+>Banking (Yes/No)
+>Bonus (Yes/No)
+>Status (Open/Closed)
+>City
+>Latitude & Longitude
+>Bike Stands (Total capacity)
+>Available Bike Stands
+>Available Bikes
+>Last Updated Date & Time
+>Time Zone
 
 * The network includes thousands of bike stands distributed across multiple cities.
 
@@ -49,22 +49,22 @@ Time Zone
 
 **Excel**
 >Data cleaning
-Sorting and filtering
-Pivot tables
-Basic analysis
+>Sorting and filtering
+>Pivot tables
+>Basic analysis
 
 **Power Query**
 >Data transformation
-Data formatting and preparation
+>Data formatting and preparation
 
 **Power BI**
 >Data modeling
-Dashboard creation
-Visualization
+>Dashboard creation
+>Visualization
 
 **DAX (Data Analysis Expressions)**
 >Creating measures
-Calculations and aggregated metrics
+>Calculations and aggregated metrics
 
 ## 🧹Data Cleaning & Preparation
 
@@ -97,7 +97,7 @@ Calculations and aggregated metrics
 - Conducted city-based analysis of bike stations to understand the distribution of bike-sharing networks.
 - Visualized bike availability trends and station performance using Power BI charts, maps, and interactive dashboards.
 
-![EDA Analysis](Images/EDA.image.png) 
+![EDA Analysis](Images/EDA.png) 
 
 >Figure: Comparison of bike availability and bike stand capacity across different cities and station categories.
 
