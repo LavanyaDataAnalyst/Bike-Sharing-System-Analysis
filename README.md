@@ -97,7 +97,7 @@
 - Conducted city-based analysis of bike stations to understand the distribution of bike-sharing networks.
 - Visualized bike availability trends and station performance using Power BI charts, maps, and interactive dashboards.
 
-![EDA Analysis](Images/EDA.png) 
+![EDA Analysis](images/EDA.png) 
 
 >Figure: Comparison of bike availability and bike stand capacity across different cities and station categories.
 
